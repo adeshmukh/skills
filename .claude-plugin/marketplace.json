@@ -16,6 +16,42 @@
       "author": {
         "name": "Amol S Deshmukh"
       }
+    },
+    {
+      "name": "fastapi-scaffold",
+      "source": "./skills/fastapi-scaffold",
+      "description": "Scaffold a new FastAPI service with async SQLAlchemy 2.0, Alembic, Pydantic Settings, pytest, Docker, and uv.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Amol S Deshmukh"
+      }
+    },
+    {
+      "name": "terraform-module",
+      "source": "./skills/terraform-module",
+      "description": "Generate GCP Terraform modules with provider config, variables, outputs, and tfvars examples.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Amol S Deshmukh"
+      }
+    },
+    {
+      "name": "mcp-server",
+      "source": "./skills/mcp-server",
+      "description": "Scaffold a new MCP server in Python (FastMCP) or Go (mcp-go) with tools, transport, tests, and CI.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Amol S Deshmukh"
+      }
+    },
+    {
+      "name": "cobra-cli",
+      "source": "./skills/cobra-cli",
+      "description": "Scaffold a Go CLI application or subcommand using Cobra with table-driven tests and ldflags versioning.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Amol S Deshmukh"
+      }
     }
   ]
 }
