@@ -9,9 +9,9 @@
   },
   "plugins": [
     {
-      "name": "cheat-sheet",
-      "source": "./skills/cheat-sheet",
-      "description": "Generate a dense, print-ready cheat sheet for exam memorization (AP Physics, AP Calculus, AP Chemistry, GRE, SAT, etc.).",
+      "name": "ap-prep",
+      "source": "./skills/ap-prep",
+      "description": "Exam prep tools — cheat sheets, study aids, and reference materials for AP, SAT, GRE, and other standardized exams.",
       "version": "1.0.0",
       "author": {
         "name": "Amol S Deshmukh"

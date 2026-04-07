@@ -1,5 +1,4 @@
 ---
-name: cheat-sheet
 description: Generate a dense, print-ready cheat sheet for exam memorization (AP Physics C, AP Calculus AB, AP Chemistry, GRE, SAT, etc.). Outputs a beautifully formatted HTML (default), LaTeX, or Markdown file with formulas, key facts, and color-coded sections.
 argument-hint: "<topic> [--format html|latex|markdown] [--color color|grayscale] [--paper letter|a4|legal|a5]"
 allowed-tools: Write, WebSearch, WebFetch

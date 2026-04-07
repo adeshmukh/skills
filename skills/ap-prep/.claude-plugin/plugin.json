@@ -1,0 +1,9 @@
+{
+  "name": "ap-prep",
+  "description": "Exam prep tools — cheat sheets, study aids, and reference materials for AP, SAT, GRE, and other standardized exams.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amol S Deshmukh"
+  },
+  "repository": "https://github.com/adeshmukh/skills"
+}
