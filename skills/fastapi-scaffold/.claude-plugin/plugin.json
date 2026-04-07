@@ -1,0 +1,10 @@
+{
+  "name": "fastapi-scaffold",
+  "description": "Scaffold a new FastAPI service with async SQLAlchemy, Alembic, pytest, Docker, and uv",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amol S Deshmukh"
+  },
+  "repository": "https://github.com/adeshmukh/skills",
+  "license": "MIT"
+}
