@@ -230,6 +230,38 @@ After writing the file, tell the user:
 - How to open/view it (for HTML: open in browser, then File > Print or Ctrl+P; for LaTeX: compile with `pdflatex`)
 - Any topic areas that may be incomplete or where they should verify content against their specific exam's official formula sheet
 
+## Step 6 — Accuracy Review
+
+**This step is mandatory. Accuracy errors on a cheat sheet are catastrophic — a student who memorizes a wrong formula will get every related problem wrong.**
+
+After writing the file, perform a line-by-line review of every factual claim, formula, constant, and definition in the generated cheat sheet. Do NOT skip this step. Do NOT treat it as a formality.
+
+### Review procedure
+
+1. **Re-read the entire generated file** from top to bottom.
+2. **For each formula**, verify:
+   - The formula itself is correct (signs, exponents, subscripts, boundary conditions).
+   - Variable names and symbols match standard conventions for the subject.
+   - Units are consistent and dimensionally correct.
+   - Any stated conditions of applicability are accurate.
+3. **For each constant or conversion factor**, verify the numeric value and units are correct.
+4. **For each definition or theorem**, verify it is stated precisely and completely — no missing conditions, no over-generalizations.
+5. **For each "Common Trap" or tip**, verify the advice given is actually correct and won't mislead a student.
+6. **Cross-check** related formulas against each other for internal consistency (e.g., if both a general and special-case formula appear, the special case should be derivable from the general one).
+
+### If you find errors
+
+Fix every error in the file immediately using the Write tool to regenerate the corrected output. Then re-run the review on the corrected file. Repeat until the file is error-free.
+
+### After review
+
+Report to the user:
+- Confirmation that the accuracy review was completed.
+- The number of errors found and corrected (if any), with a brief description of each correction.
+- Any formulas or facts you could not verify with high confidence — flag these explicitly so the student knows to double-check them against their official course materials.
+
+---
+
 ## Quality Bar
 
 Before writing the file, mentally verify:
