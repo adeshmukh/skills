@@ -1,0 +1,10 @@
+{
+  "name": "cobra-cli",
+  "description": "Scaffold a Go CLI application or subcommand using Cobra with table-driven tests and ldflags versioning",
+  "version": "1.0.0",
+  "author": {
+    "name": "Amol S Deshmukh"
+  },
+  "repository": "https://github.com/adeshmukh/skills",
+  "license": "MIT"
+}
