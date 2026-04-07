@@ -16,7 +16,7 @@ Extract from the user's invocation:
 |-----------|---------|-----------------|
 | `topic` | (required) | Any exam or subject: "AP Physics C: Mechanics", "AP Calculus AB", "AP Chemistry", "GRE Quant", "SAT Math", "Organic Chemistry" |
 | `--format` | `html` | `html`, `latex`, `markdown` |
-| `--color` | `grayscale` | `color`, `grayscale` |
+| `--color` | `color` | `color`, `grayscale` |
 | `--paper` | `letter` | `letter` (8.5×11 in), `a4` (210×297 mm), `legal` (8.5×14 in), `a5` (148×210 mm) |
 
 If arguments are missing, use defaults without asking. Infer `--format` if the user writes something like "in LaTeX" or "as a markdown file."
