@@ -10,7 +10,9 @@ claude plugin install https://github.com/adeshmukh/skills
 
 ## Skills
 
-<!-- List your skills here as you add them -->
+| Skill | Description |
+|-------|-------------|
+| [cheat-sheet](skills/cheat-sheet/SKILL.md) | Generate a dense, print-ready cheat sheet for exam memorization (AP Physics, AP Calculus, AP Chemistry, GRE, SAT, etc.). Outputs HTML, LaTeX, or Markdown with formulas, key facts, and color-coded sections. |
 
 ## Development
 
